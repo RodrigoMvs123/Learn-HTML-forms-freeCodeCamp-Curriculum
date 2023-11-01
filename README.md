@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=vsBZTLE8xHs 
 
+https://raw.githubusercontent.com/RodrigoMvs123/Learn-HTML-forms-freeCodeCamp-Curriculum/main/README.md
+
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
