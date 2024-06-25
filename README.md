@@ -1,4 +1,5 @@
-# Learn-HTML-forms-freeCodeCamp-Curriculum
+
+## Learn-HTML-forms-freeCodeCamp-Curriculum
 
 https://www.youtube.com/watch?v=vsBZTLE8xHs 
 
@@ -6,6 +7,8 @@ https://raw.githubusercontent.com/RodrigoMvs123/Learn-HTML-forms-freeCodeCamp-Cu
 
 https://github.com/RodrigoMvs123/Learn-HTML-forms-freeCodeCamp-Curriculum/blame/main/README.md
 
+## Source Code 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -27,7 +30,9 @@ index.html
         
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -43,7 +48,9 @@ body {
     background-color: #1b1b32;
     color: #f5f6f7
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -79,7 +86,9 @@ index.html
         
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -100,7 +109,9 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -195,7 +206,9 @@ index.html
         
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -245,7 +258,9 @@ input, textarea, select {
     width:100%;
     margin: 10px 0 0 0;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -340,7 +355,9 @@ index.html
         
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -423,5 +440,4 @@ input[type="file"] {
 a {
     color: #dfdfe2;
 }
-
-
+```
